@@ -7,7 +7,7 @@ Alkatrészek:
 -Breadboard
 -Jumper kábelek
 -PIR mozgásérzékelő (HC-SR501)
--active buzzer 
+*-active buzzer *
 
 Csapattagok és szerepük a projektben:
 

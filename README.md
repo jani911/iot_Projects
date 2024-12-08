@@ -32,3 +32,5 @@ Lényegében egy nagyon egyszerű riasztó.
 
 
 ![image](https://github.com/jani911/iot_Projects/blob/main/1.png?raw=true)
+
+![image](https://github.com/jani911/iot_Projects/blob/main/IMG_20241208_170655.jpg?raw=true)
